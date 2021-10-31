@@ -1,0 +1,83 @@
+@font-face {
+    font-family: 'Source Sans 3';
+    src: local('Source Sans 3'), url('./200a.woff2') format("woff2");
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Source Sans 3';
+    src: local('Source Sans 3'), url('./200i.woff2') format("woff2");
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Source Sans 3';
+    src: local('Source Sans 3'), url('./300a.woff2') format("woff2");
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Source Sans 3';
+    src: local('Source Sans 3'), url('./300i.woff2') format("woff2");
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Source Sans 3';
+    src: local('Source Sans 3'), url('./400a.woff2') format("woff2");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Source Sans 3';
+    src: local('Source Sans 3'), url('./400i.woff2') format("woff2");
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Source Sans 3';
+    src: local('Source Sans 3'), url('./600a.woff2') format("woff2");
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Source Sans 3';
+    src: local('Source Sans 3'), url('./600i.woff2') format("woff2");
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Source Sans 3';
+    src: local('Source Sans 3'), url('./700a.woff2') format("woff2");
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Source Sans 3';
+    src: local('Source Sans 3'), url('./700i.woff2') format("woff2");
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Source Sans 3';
+    src: local('Source Sans 3'), url('./900a.woff2') format("woff2");
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Source Sans 3';
+    src: local('Source Sans 3'), url('./900i.woff2') format("woff2");
+    font-weight: 900;
+    font-style: italic;
+}

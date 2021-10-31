@@ -1,0 +1,125 @@
+@font-face {
+    font-family: 'Barlow';
+    src: url('./100a.woff2') format("woff2");
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Barlow';
+    src: url('./100i.woff2') format("woff2");
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Barlow';
+    src: url('./200a.woff2') format("woff2");
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Barlow';
+    src: url('./200i.woff2') format("woff2");
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Barlow';
+    src: url('./300a.woff2') format("woff2");
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Barlow';
+    src: url('./300i.woff2') format("woff2");
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Barlow';
+    src: url('./400a.woff2') format("woff2");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Barlow';
+    src: url('./400i.woff2') format("woff2");
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Barlow';
+    src: url('./500a.woff2') format("woff2");
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Barlow';
+    src: url('./500i.woff2') format("woff2");
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Barlow';
+    src: url('./600a.woff2') format("woff2");
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Barlow';
+    src: url('./600i.woff2') format("woff2");
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Barlow';
+    src: url('./700a.woff2') format("woff2");
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Barlow';
+    src: url('./700i.woff2') format("woff2");
+    font-weight: 700;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Barlow';
+    src: url('./800a.woff2') format("woff2");
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Barlow';
+    src: url('./800i.woff2') format("woff2");
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Barlow';
+    src: url('./900a.woff2') format("woff2");
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Barlow';
+    src: url('./900i.woff2') format("woff2");
+    font-weight: 900;
+    font-style: italic;
+}
